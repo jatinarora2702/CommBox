@@ -4,7 +4,7 @@ Modern day cricket is fast. So, reporting live commentary in textual form on var
 
 This system uses **accelerometer** and **gyroscope** readings recorded from a **sensor** on a **wrist band** worn by the batsman, to **classify the shot played** with good accuracy.
 
-This project got **awarded** the **[Best Academic Demo Award](https://www.comsnets.org/archive/2017/awards.html)** in International Conference on Communication Systems and Networks (**COMSNETS 2017**) for the paper titled, "*CommBox*: Utilizing Sensors for Real-Time Cricket Shot Identification and Commentary Generation"
+This project got awarded the **[Best Academic Demo Award](https://www.comsnets.org/archive/2017/awards.html)** in International Conference on Communication Systems and Networks (**COMSNETS 2017**) for the paper titled, [*CommBox*: Utilizing Sensors for Real-Time Cricket Shot Identification and Commentary Generation](https://ieeexplore.ieee.org/document/7945426/)
 
 Have a look at the video demo attached for details.
 
