@@ -6,7 +6,7 @@ This system uses **accelerometer** and **gyroscope** readings recorded from a **
 
 This project got awarded the **[Best Academic Demo Award](https://www.comsnets.org/archive/2017/awards.html)** in International Conference on Communication Systems and Networks (**COMSNETS 2017**) for the paper titled, [*CommBox*: Utilizing Sensors for Real-Time Cricket Shot Identification and Commentary Generation](https://ieeexplore.ieee.org/document/7945426/)
 
-Have a look at the video demo attached for details.
+Have a look at the [video demo](https://www.youtube.com/watch?v=idwAaG3ET0w) for details.
 
 # Approach
 
