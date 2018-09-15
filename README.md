@@ -25,4 +25,4 @@ We used MetaWear CPRO, a coin sized sensor provided by Mbient Lab.
 - For identification of 3 distinct shots, 'PULL', 'STRAIGHT DRIVE' and 'CUT', we get ~96 % accuracy.
 - On including 2 confusing shots as well, we get ~90 % accuracy.
 
-More details on the approach and results can be seen from the research paper attached.
+More details on the approach and results can be seen from the [research paper](CommBox.pdf).
